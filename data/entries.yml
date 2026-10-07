@@ -152,6 +152,11 @@ categories:
         description: "Claude Code plugin that generates individualized knowledge systems from your conversations."
         install: "plugin: agenticnotetaking/arscontexta"
         tags: [knowledge]
+      - name: "Hyperconsciousness"
+        repo: "louis030195/hyperconsciousness"
+        description: "Developer-alpha encrypted, append-only knowledge store with scoped, expiring MCP grants."
+        install: "clone: louis030195/hyperconsciousness"
+        tags: [memory, mcp, encryption]
 
   - id: skills
     title: "Skills & Libraries"
