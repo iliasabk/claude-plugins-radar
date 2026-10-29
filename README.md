@@ -70,7 +70,7 @@ not a quality rating — read the description before installing.
 
 <!-- AG-META:START -->
 
-> **Last refreshed:** `2026-10-28 12:54 UTC` · **70 repos** tracked · **7** categories · source: `data/entries.yml`
+> **Last refreshed:** `2026-10-29 13:01 UTC` · **70 repos** tracked · **7** categories · source: `data/entries.yml`
 
 <!-- AG-META:END -->
 
@@ -82,13 +82,13 @@ Change how Claude Code thinks, plans and works — not just what it can access.
 
 | Project | What it does | Stars | Updated | Install |
 | --- | --- | ---: | --- | --- |
-| [Superpowers](https://github.com/obra/superpowers) | TDD-first skills framework: planning, brainstorming, structured debugging, skill authoring. | 307.0k | 2026-10-23 | `plugin: obra/superpowers-marketplace` |
-| [ponytail](https://github.com/dietrichgebert/ponytail) | Makes your agent think like the laziest senior dev in the room: short, decisive output. | 178.7k | 2026-10-18 | `DietricGebert/ponytail` |
-| [gstack](https://github.com/garrytan/gstack) | Garry Tan's virtual engineering team: 23 slash-command skills for plan, review, design, QA, securit… | 138.0k | 2026-10-28 | `gstacks.org/install.sh` |
-| [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | From vibe coding to agentic engineering: battle-tested practices that make Claude better. | 68.2k | 2026-10-28 | `shanraisshan/claude-code-best-practice` |
-| [planning-with-files](https://github.com/othmanadi/planning-with-files) | Persistent file-based planning for long-running agent tasks that survives crashes and context reset… | 27.7k | 2026-10-24 | `clone: OthmanAdi/planning-with-files` |
-| [Compound Engineering](https://github.com/everyinc/compound-engineering-plugin) | Spawns 50+ sub-agents so Claude gets smarter about your codebase over time. | 25.8k | 2026-10-27 | `plugin: EveryInc/compound-engineering-plugin` |
-| [autoharness](https://github.com/tigerless-labs/autoharness) | Self-learning skill layer for Claude Code that distills skills from your own sessions. | 10.4k | 2026-10-28 | `tigerless-labs/autoharness` |
+| [Superpowers](https://github.com/obra/superpowers) | TDD-first skills framework: planning, brainstorming, structured debugging, skill authoring. | 308.0k | 2026-10-23 | `plugin: obra/superpowers-marketplace` |
+| [ponytail](https://github.com/dietrichgebert/ponytail) | Makes your agent think like the laziest senior dev in the room: short, decisive output. | 179.7k | 2026-10-29 | `DietricGebert/ponytail` |
+| [gstack](https://github.com/garrytan/gstack) | Garry Tan's virtual engineering team: 23 slash-command skills for plan, review, design, QA, securit… | 138.1k | 2026-10-29 | `gstacks.org/install.sh` |
+| [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | From vibe coding to agentic engineering: battle-tested practices that make Claude better. | 68.3k | 2026-10-29 | `shanraisshan/claude-code-best-practice` |
+| [planning-with-files](https://github.com/othmanadi/planning-with-files) | Persistent file-based planning for long-running agent tasks that survives crashes and context reset… | 27.7k | 2026-10-28 | `clone: OthmanAdi/planning-with-files` |
+| [Compound Engineering](https://github.com/everyinc/compound-engineering-plugin) | Spawns 50+ sub-agents so Claude gets smarter about your codebase over time. | 25.8k | 2026-10-29 | `plugin: EveryInc/compound-engineering-plugin` |
+| [autoharness](https://github.com/tigerless-labs/autoharness) | Self-learning skill layer for Claude Code that distills skills from your own sessions. | 10.6k | 2026-10-28 | `tigerless-labs/autoharness` |
 | [harness](https://github.com/revfactory/harness) | Meta-skill that designs domain-specific agent teams and generates the skills they use. | 9.3k | 2026-09-28 | `revfactory/harness` |
 | [pro-workflow](https://github.com/rohitg00/pro-workflow) | Self-correcting memory workflow: Claude learns from your corrections, compounding over time. | 2.9k | 2026-09-29 | `rohitg00/pro-workflow` |
 
@@ -102,13 +102,13 @@ Ready-made plugin packs and marketplaces you can install in one command.
 
 | Project | What it does | Stars | Updated | Install |
 | --- | --- | ---: | --- | --- |
-| [ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Design-intelligence plugin that layers opinionated UI/UX guidance on top of Claude's output. | 141.9k | 2026-10-26 | `plugin: nextlevelbuilder/ui-ux-pro-max-skill` |
-| [agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor and more. | 41.9k | 2026-10-26 | `plugin: wshobson/agents` |
-| [claude-skills](https://github.com/alirezarezvani/claude-skills) | 345 Claude Code skills, agents and plugins: 30+ agents, 70+ custom commands. | 28.9k | 2026-10-27 | `plugin: alirezarezvani/claude-skills` |
-| [pm-skills](https://github.com/phuryn/pm-skills) | PM skills marketplace: 100+ agentic skills, commands and plugins for the whole product lifecycle. | 27.5k | 2026-10-16 | `plugin: phuryn/pm-skills` |
-| [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 471 plugins, 3,069 skills and 347 agents. Open-source marketplace with the ccpi CLI package manager. | 2.9k | 2026-10-28 | `ccpi` |
+| [ui-ux-pro-max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Design-intelligence plugin that layers opinionated UI/UX guidance on top of Claude's output. | 142.3k | 2026-10-26 | `plugin: nextlevelbuilder/ui-ux-pro-max-skill` |
+| [agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor and more. | 42.0k | 2026-10-26 | `plugin: wshobson/agents` |
+| [claude-skills](https://github.com/alirezarezvani/claude-skills) | 345 Claude Code skills, agents and plugins: 30+ agents, 70+ custom commands. | 29.0k | 2026-10-29 | `plugin: alirezarezvani/claude-skills` |
+| [pm-skills](https://github.com/phuryn/pm-skills) | PM skills marketplace: 100+ agentic skills, commands and plugins for the whole product lifecycle. | 27.5k | 2026-10-29 | `plugin: phuryn/pm-skills` |
+| [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 471 plugins, 3,069 skills and 347 agents. Open-source marketplace with the ccpi CLI package manager. | 2.9k | 2026-10-29 | `ccpi` |
 | [claude-code-settings](https://github.com/feiskyer/claude-code-settings) | Curated skills, sub-agents and config templates that supercharge Claude Code. | 1.7k | 2026-09-27 | `feiskyer/claude-code-settings` |
-| [claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | Battle-tested Claude Code, Codex and Cursor configs, plugins, hooks and agents. | 1.2k | 2026-10-28 | `fcakyon/claude-codex-settings` |
+| [claude-codex-settings](https://github.com/fcakyon/claude-codex-settings) | Battle-tested Claude Code, Codex and Cursor configs, plugins, hooks and agents. | 1.2k | 2026-10-29 | `fcakyon/claude-codex-settings` |
 | [claude-night-market](https://github.com/athola/claude-night-market) | 23 Claude Code plugins: TDD enforcement hooks, git/PR workflows, spec-driven development. | 343 | 2026-10-28 | `plugin: athola/claude-night-market` |
 | [ultraship](https://github.com/houseofmvps/ultraship) | 39 skills, 33 tools and 11 agents for ship-ready workflows. | 123 | 2026-07-08 | `plugin: Houseofmvps/ultraship` |
 | [claude-plugins](https://github.com/2389-research/claude-plugins) | 28 plugins and MCP servers: TDD, multi-agent orchestration and iteration workflows. | 98 | 2026-10-28 | `plugin: 2389-research/claude-plugins` |
@@ -123,13 +123,13 @@ Give Claude Code memory across sessions and keep context windows lean.
 
 | Project | What it does | Stars | Updated | Install |
 | --- | --- | ---: | --- | --- |
-| [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent context across sessions for every agent: captures everything your agent learns. | 103.9k | 2026-10-28 | `npm: claude-mem` |
-| [context-mode](https://github.com/mksglu/context-mode) | Context-window optimization: sandboxes tool output (98% reduction), persists session memory. | 32.6k | 2026-10-28 | `mksglu/context-mode` |
+| [claude-mem](https://github.com/thedotmack/claude-mem) | Persistent context across sessions for every agent: captures everything your agent learns. | 104.2k | 2026-10-29 | `npm: claude-mem` |
+| [context-mode](https://github.com/mksglu/context-mode) | Context-window optimization: sandboxes tool output (98% reduction), persists session memory. | 32.8k | 2026-10-29 | `mksglu/context-mode` |
 | [Continuous-Claude-v3](https://github.com/parcadei/continuous-claude-v3) | Context management via hooks: state kept in ledgers with clean handoffs between sessions. | 3.9k | 2026-01-26 | `parcadei/Continuous-Claude-v3` |
 | [arscontexta](https://github.com/agenticnotetaking/arscontexta) | Claude Code plugin that generates individualized knowledge systems from your conversations. | 3.5k | 2026-02-24 | `plugin: agenticnotetaking/arscontexta` |
 | [memsearch](https://github.com/zilliztech/memsearch) | Persistent, unified memory layer for all your AI agents — Claude Code, Codex and more. | 2.8k | 2026-10-27 | `zilliztech/memsearch` |
-| [mex](https://github.com/mex-memory/mex) | Persistent project memory for AI coding agents: structured scaffold plus drift detection. | 1.8k | 2026-10-27 | `mex-memory/mex` |
-| [Citadel](https://github.com/sethgammon/citadel) | Operating layer for Claude Code and Codex: persistent project memory and state. | 927 | 2026-10-25 | `SethGammon/Citadel` |
+| [mex](https://github.com/mex-memory/mex) | Persistent project memory for AI coding agents: structured scaffold plus drift detection. | 1.8k | 2026-10-29 | `mex-memory/mex` |
+| [Citadel](https://github.com/sethgammon/citadel) | Operating layer for Claude Code and Codex: persistent project memory and state. | 927 | 2026-10-28 | `SethGammon/Citadel` |
 | [sidstack](https://github.com/junixlabs/sidstack) | Persistent project memory exposed through 32 MCP tools for knowledge and impact. | 1 | 2026-03-12 | `junixlabs/sidstack` |
 
 <!-- AG-END:memory -->
@@ -142,16 +142,16 @@ Curated skill libraries for engineering, research, design, security and business
 
 | Project | What it does | Stars | Updated | Install |
 | --- | --- | ---: | --- | --- |
-| [skills](https://github.com/mattpocock/skills) | Production engineering skills: debugging, testing, architecture and code review workflows. | 305.3k | 2026-10-27 | `mattpocock/skills` |
-| [i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill that stops your coding agent from burying the answer: ADHD-friendly output. | 59.2k | 2026-10-19 | `ayghri/i-have-adhd` |
-| [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | AAS Core: the local, agent-first control plane for complete catalog discovery. | 48.7k | 2026-10-28 | `sickn33/agentic-awesome-skills` |
-| [awesome-agent-skills](https://github.com/voltagent/awesome-agent-skills) | 1,000+ agent skills from official dev teams and the community, for any agent. | 36.5k | 2026-10-27 | `VoltAgent/awesome-agent-skills` |
-| [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/auto-claude-code-research-in-sleep) | ARIS: lightweight markdown-only skills for autonomous research while you sleep. | 18.2k | 2026-10-24 | `wanshuiyin/Auto-claude-code-research-in-sleep` |
-| [video-shotcraft](https://github.com/vincentwei1021/video-shotcraft) | AI video skill for Claude Code and Codex: cinematic product videos with Remotion. | 14.3k | 2026-10-28 | `Vincentwei1021/video-shotcraft` |
+| [skills](https://github.com/mattpocock/skills) | Production engineering skills: debugging, testing, architecture and code review workflows. | 306.2k | 2026-10-29 | `mattpocock/skills` |
+| [i-have-adhd](https://github.com/ayghri/i-have-adhd) | A skill that stops your coding agent from burying the answer: ADHD-friendly output. | 59.3k | 2026-10-19 | `ayghri/i-have-adhd` |
+| [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | AAS Core: the local, agent-first control plane for complete catalog discovery. | 48.7k | 2026-10-29 | `sickn33/agentic-awesome-skills` |
+| [awesome-agent-skills](https://github.com/voltagent/awesome-agent-skills) | 1,000+ agent skills from official dev teams and the community, for any agent. | 36.6k | 2026-10-29 | `VoltAgent/awesome-agent-skills` |
+| [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/auto-claude-code-research-in-sleep) | ARIS: lightweight markdown-only skills for autonomous research while you sleep. | 18.3k | 2026-10-29 | `wanshuiyin/Auto-claude-code-research-in-sleep` |
+| [video-shotcraft](https://github.com/vincentwei1021/video-shotcraft) | AI video skill for Claude Code and Codex: cinematic product videos with Remotion. | 14.5k | 2026-10-28 | `Vincentwei1021/video-shotcraft` |
 | [skills](https://github.com/browser-act/skills) | Browser automation CLI built for AI agents: breaks through anti-bot walls. | 6.3k | 2026-08-24 | `browser-act/skills` |
 | [claude-code-guide](https://github.com/zebbern/claude-code-guide) | Setup, commands, workflows, agents, skills and tips-n-tricks for Claude Code. | 4.7k | 2026-10-28 | `zebbern/claude-code-guide` |
 | [ctf-skills](https://github.com/ljagiello/ctf-skills) | Agent skills for solving CTF challenges: web exploitation, binary pwn and crypto. | 3.6k | 2026-10-27 | `ljagiello/ctf-skills` |
-| [Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/claude-code-everything-you-need-to-know) | A practical Claude Code guide with clear mental models and copy-paste examples. | 3.5k | 2026-10-26 | `wesammustafa/Claude-Code-Everything-You-Need-to-Know` |
+| [Claude-Code-Everything-You-Need-to-Know](https://github.com/wesammustafa/claude-code-everything-you-need-to-know) | A practical Claude Code guide with clear mental models and copy-paste examples. | 3.5k | 2026-10-29 | `wesammustafa/Claude-Code-Everything-You-Need-to-Know` |
 | [vibe-coding-prompt-template](https://github.com/khazp/vibe-coding-prompt-template) | Templates and workflow for generating PRDs, tech designs and MVPs. | 3.2k | 2026-10-04 | `KhazP/vibe-coding-prompt-template` |
 | [skills](https://github.com/wondelai/skills) | Wondel.ai agent skills: business, marketing, UX and coding frameworks. | 2.5k | 2026-09-10 | `wondelai/skills` |
 | [Deep-Research-skills](https://github.com/weizhena/deep-research-skills) | Structured deep-research skill for Claude Code, Codex and others with human-in-the-loop checkpoints. | 2.4k | 2026-08-23 | `Weizhena/Deep-Research-skills` |
@@ -159,8 +159,8 @@ Curated skill libraries for engineering, research, design, security and business
 | [engram](https://github.com/nagisanzenin/engram) | Evidence-based learning engine: first-principles curricula with frequent review. | 1.5k | 2026-08-27 | `nagisanzenin/engram` |
 | [gpt-image2-ppt-skills](https://github.com/juneyaooo/gpt-image2-ppt-skills) | Clone any .pptx into your own deck: gpt-image-2 mimics the layout, you keep the story. | 1.4k | 2026-08-22 | `JuneYaooo/gpt-image2-ppt-skills` |
 | [auteur](https://github.com/agiwhitelist/auteur) | The Claude Code skill that directs a website like a film: commit-sheet, scenes, cut. | 1.0k | 2026-08-06 | `agiwhitelist/auteur` |
-| [claude-smart](https://github.com/reflexioai/claude-smart) | Turns your corrections into preferences, project-specific skills and shared skills. | 789 | 2026-10-28 | `ReflexioAI/claude-smart` |
-| [Generative-Media-Skills](https://github.com/samuraigpt/generative-media-skills) | Multi-modal generative media skills for Claude Code, Cursor and Gemini CLI. | 25 | 2026-09-29 | `SamurAIGPT/Generative-Media-Skills` |
+| [claude-smart](https://github.com/reflexioai/claude-smart) | Turns your corrections into preferences, project-specific skills and shared skills. | 789 | 2026-10-29 | `ReflexioAI/claude-smart` |
+| [Generative-Media-Skills](https://github.com/samuraigpt/generative-media-skills) | Multi-modal generative media skills for Claude Code, Cursor and Gemini CLI. | 27 | 2026-09-29 | `SamurAIGPT/Generative-Media-Skills` |
 
 <!-- AG-END:skills -->
 
@@ -172,13 +172,13 @@ The agents themselves, multi-agent orchestration and agent team management.
 
 | Project | What it does | Stars | Updated | Install |
 | --- | --- | ---: | --- | --- |
-| [claude-code](https://github.com/anthropics/claude-code) <sub>✅ official</sub> | Anthropic's official terminal-based coding agent. The platform everything else plugs into. | 153.7k | 2026-10-27 | `npm: @anthropic-ai/claude-code` |
+| [claude-code](https://github.com/anthropics/claude-code) <sub>✅ official</sub> | Anthropic's official terminal-based coding agent. The platform everything else plugs into. | 153.8k | 2026-10-27 | `npm: @anthropic-ai/claude-code` |
 | [OpenMythos](https://github.com/kyegomez/openmythos) | Theoretical reconstruction of the Claude Mythos architecture, built from first principles. | 14.9k | 2026-05-23 | `kyegomez/OpenMythos` |
-| [claude-octopus](https://github.com/nyldn/claude-octopus) | Surface AI blindspots: up to 8 AI models on every research and code task before you ship. | 4.3k | 2026-10-28 | `nyldn/claude-octopus` |
+| [claude-octopus](https://github.com/nyldn/claude-octopus) | Surface AI blindspots: up to 8 AI models on every research and code task before you ship. | 4.3k | 2026-10-29 | `nyldn/claude-octopus` |
 | [NotFair](https://github.com/nowork-studio/notfair) | Goal-driven, loop-powered marketing agents that pursue your business goals 24/7. | 4.1k | 2026-10-23 | `nowork-studio/NotFair` |
 | [babysitter](https://github.com/a5c-ai/babysitter) | Enforces obedience on agentic workforces and helps them manage execution. | 1.9k | 2026-09-16 | `a5c-ai/babysitter` |
 | [hivemind](https://github.com/activeloopai/hivemind) | Turns your traces into reusable skills across agents. | 1.6k | 2026-10-24 | `activeloopai/hivemind` |
-| [ai-maestro](https://github.com/23blocks-os/ai-maestro) | AI agent orchestrator with skills system: manage Claude, Codex or any agent from one dashboard. | 839 | 2026-10-28 | `23blocks-OS/ai-maestro` |
+| [ai-maestro](https://github.com/23blocks-os/ai-maestro) | AI agent orchestrator with skills system: manage Claude, Codex or any agent from one dashboard. | 839 | 2026-10-29 | `23blocks-OS/ai-maestro` |
 | [claude-code-agent-teams-exercises](https://github.com/panaversity/claude-code-agent-teams-exercises) | 30 practical exercises for agent teams: creation, coordination, quality hooks, parallel review. | 32 | 2026-02-11 | `panaversity/claude-code-agent-teams-exercises` |
 
 <!-- AG-END:agents -->
@@ -193,10 +193,10 @@ Guardrails, code review and verification layers for agentic engineering.
 | --- | --- | ---: | --- | --- |
 | [agent-rules-books](https://github.com/ciembor/agent-rules-books) | AGENTS.md rules and skills for AI coding agents — Codex, Cursor and Claude Code. | 3.1k | 2026-09-10 | `ciembor/agent-rules-books` |
 | [pg-aiguide](https://github.com/timescale/pg-aiguide) | MCP server and Claude plugin for Postgres skills and documentation: better SQL from AI. | 1.9k | 2026-10-28 | `timescale/pg-aiguide` |
-| [cc-safety-net](https://github.com/kenryu42/cc-safety-net) | AI coding agent guardrail: a CLI hook that blocks destructive git and filesystem actions. | 1.8k | 2026-10-28 | `kenryu42/cc-safety-net` |
+| [cc-safety-net](https://github.com/kenryu42/cc-safety-net) | AI coding agent guardrail: a CLI hook that blocks destructive git and filesystem actions. | 1.8k | 2026-10-29 | `kenryu42/cc-safety-net` |
 | [brooks-lint](https://github.com/hyhmrright/brooks-lint) | AI code reviews grounded in 12 classic engineering books, with decay-risk diagnostics. | 1.6k | 2026-10-26 | `hyhmrright/brooks-lint` |
 | [claude-video-vision](https://github.com/jordanrendric/claude-video-vision) | Give Claude the ability to watch and understand videos: Claude Code plugin with vision tools. | 1.4k | 2026-10-14 | `jordanrendric/claude-video-vision` |
-| [getspecstory](https://github.com/specstoryai/getspecstory) | Local-first extensions for AI IDEs and terminal agents: specs, history and insights. | 1.4k | 2026-10-27 | `specstoryai/getspecstory` |
+| [getspecstory](https://github.com/specstoryai/getspecstory) | Local-first extensions for AI IDEs and terminal agents: specs, history and insights. | 1.4k | 2026-10-29 | `specstoryai/getspecstory` |
 
 <!-- AG-END:quality -->
 
@@ -208,16 +208,16 @@ Where the rest of the ecosystem lives: marketplaces, mega-lists and searchable c
 
 | Project | What it does | Stars | Updated | Install |
 | --- | --- | ---: | --- | --- |
-| [skills](https://github.com/anthropics/skills) <sub>✅ official</sub> | Anthropic's official skills library, showing how skills are designed and used internally. | 184.4k | 2026-10-09 | `anthropics/skills` |
+| [skills](https://github.com/anthropics/skills) <sub>✅ official</sub> | Anthropic's official skills library, showing how skills are designed and used internally. | 184.7k | 2026-10-28 | `anthropics/skills` |
 | [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | The de-facto catalog of MCP servers, for Claude Code, Cursor and any MCP client. | 97.0k | 2026-10-23 | `punkpeye/awesome-mcp-servers` |
-| [servers](https://github.com/modelcontextprotocol/servers) <sub>✅ official</sub> | Official reference MCP servers from the Model Context Protocol team. | 91.6k | 2026-10-27 | `modelcontextprotocol/servers` |
+| [servers](https://github.com/modelcontextprotocol/servers) <sub>✅ official</sub> | Official reference MCP servers from the Model Context Protocol team. | 91.7k | 2026-10-29 | `modelcontextprotocol/servers` |
 | [awesome-claude-skills](https://github.com/composiohq/awesome-claude-skills) | 1,000+ skills and SaaS integrations in one install. | 78.2k | 2026-09-18 | `ComposioHQ/awesome-claude-skills` |
-| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | The big curated collection of Claude Code patterns, hooks and commands. | 56.7k | 2026-10-28 | `hesreallyhim/awesome-claude-code` |
-| [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) <sub>✅ official</sub> | Anthropic's official marketplace: 200+ curated first-party and partner plugins. | 45.0k | 2026-10-28 | `auto-registered` |
-| [claude-code-templates](https://github.com/davila7/claude-code-templates) | Open-source catalog and CLI behind aitmpl.com: thousands of agents, commands, skills and MCP server… | 32.9k | 2026-10-28 | `aitmpl.com` |
-| [claude-plugins-community](https://github.com/anthropics/claude-plugins-community) <sub>✅ official</sub> | Anthropic's reviewed community marketplace, installed with the @claude-community suffix. | 4.8k | 2026-10-28 | `@claude-community` |
+| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | The big curated collection of Claude Code patterns, hooks and commands. | 56.8k | 2026-10-29 | `hesreallyhim/awesome-claude-code` |
+| [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) <sub>✅ official</sub> | Anthropic's official marketplace: 200+ curated first-party and partner plugins. | 45.2k | 2026-10-29 | `auto-registered` |
+| [claude-code-templates](https://github.com/davila7/claude-code-templates) | Open-source catalog and CLI behind aitmpl.com: thousands of agents, commands, skills and MCP server… | 33.0k | 2026-10-29 | `aitmpl.com` |
+| [claude-plugins-community](https://github.com/anthropics/claude-plugins-community) <sub>✅ official</sub> | Anthropic's reviewed community marketplace, installed with the @claude-community suffix. | 4.8k | 2026-10-29 | `@claude-community` |
 | [awesome-claude-plugins](https://github.com/composio-community/awesome-claude-plugins) | Curated list of production-ready plugins that extend Claude Code. | 2.0k | 2026-07-26 | `composio-community/awesome-claude-plugins` |
-| [awesome-claude-plugins-metrics](https://github.com/quemsah/awesome-claude-plugins) | Automated collection of Claude Code plugin adoption metrics across GitHub repositories. | 1.5k | 2026-10-28 | `quemsah/awesome-claude-plugins` |
+| [awesome-claude-plugins-metrics](https://github.com/quemsah/awesome-claude-plugins) | Automated collection of Claude Code plugin adoption metrics across GitHub repositories. | 1.5k | 2026-10-29 | `quemsah/awesome-claude-plugins` |
 
 <!-- AG-END:catalogs -->
 
