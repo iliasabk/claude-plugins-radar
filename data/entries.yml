@@ -303,6 +303,11 @@ categories:
     title: "Safety, Quality & Review"
     subtitle: "Guardrails, code review and verification layers for agentic engineering."
     entries:
+      - name: "agent-qa"
+        repo: "vostride/agent-qa"
+        description: "Self-improving web, Android and iOS QA via MCP, with persistent memidex memory."
+        install: "npx agent-qa mcp"
+        tags: [testing, mcp, memory]
       - name: "cc-safety-net"
         repo: "kenryu42/cc-safety-net"
         description: "AI coding agent guardrail: a CLI hook that blocks destructive git and filesystem actions."
