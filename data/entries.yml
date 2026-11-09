@@ -252,6 +252,11 @@ categories:
         description: "Ready-to-fork Claude Code template for academics: LaTeX/Beamer plus R."
         install: "pedrohcgs/claude-code-my-workflow"
         tags: [academic, templates]
+      - name: "yylo-skills"
+        repo: "yylo-dev/yylo-skills"
+        description: "Seven workflow skills for Claude Code and Codex: Kanban tasks, wiki, artifacts and autonomous loops."
+        install: "yylo-dev/yylo-skills"
+        tags: [workflow, kanban]
 
   - id: agents
     title: "Agents & Orchestration"
