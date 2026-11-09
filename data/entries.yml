@@ -57,6 +57,11 @@ categories:
     title: "Plugins & Marketplaces"
     subtitle: "Ready-made plugin packs and marketplaces you can install in one command."
     entries:
+      - name: "Docsy"
+        repo: "getremcp/docsy-plugin"
+        description: "Read-only versioned developer documentation MCP with original source citations."
+        install: "claude plugin marketplace add getremcp/docsy-plugin"
+        tags: [mcp, docs, versions, oauth]
       - name: "agents"
         repo: "wshobson/agents"
         description: "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor and more."
