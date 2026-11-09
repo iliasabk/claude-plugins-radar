@@ -57,6 +57,11 @@ categories:
     title: "Plugins & Marketplaces"
     subtitle: "Ready-made plugin packs and marketplaces you can install in one command."
     entries:
+      - name: "ReMCP"
+        repo: "getremcp/remcp"
+        description: "OAuth MCP to operate explicitly paired computers via terminal, files and browser."
+        install: "claude mcp add --transport http remcp https://remcp.site/mcp"
+        tags: [mcp, computer-use, oauth, tools]
       - name: "agents"
         repo: "wshobson/agents"
         description: "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor and more."
