@@ -107,6 +107,11 @@ categories:
         description: "Design-intelligence plugin that layers opinionated UI/UX guidance on top of Claude's output."
         install: "plugin: nextlevelbuilder/ui-ux-pro-max-skill"
         tags: [design, uiux]
+      - name: "DC Hub"
+        repo: "azmartone67/dchub-mcp-server"
+        description: "Live data-center power & grid MCP + Claude plugin; DCPI scores across 300+ markets."
+        install: "plugin: azmartone67/dchub-mcp-server"
+        tags: [mcp, data, infrastructure]
 
   - id: memory
     title: "Memory & Context"
