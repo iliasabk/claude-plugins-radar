@@ -57,6 +57,11 @@ categories:
     title: "Plugins & Marketplaces"
     subtitle: "Ready-made plugin packs and marketplaces you can install in one command."
     entries:
+      - name: "Kling AI"
+        repo: "klingai-tech/claude-plugin"
+        description: "Kling AI image and video generation via a Claude Code plugin and MCP connector."
+        install: "plugin: klingai-tech/claude-plugin"
+        tags: [image, video, mcp]
       - name: "agents"
         repo: "wshobson/agents"
         description: "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor and more."
