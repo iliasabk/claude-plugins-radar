@@ -107,6 +107,11 @@ categories:
         description: "Design-intelligence plugin that layers opinionated UI/UX guidance on top of Claude's output."
         install: "plugin: nextlevelbuilder/ui-ux-pro-max-skill"
         tags: [design, uiux]
+      - name: "Venturine"
+        repo: "maddyzohadi/venturine"
+        description: "Evidence-labeled startup analysis: 12 skills, 6 agents, calculator with Calculation Receipts."
+        install: "plugin: maddyzohadi/venturine"
+        tags: [startup, validation, evidence]
 
   - id: memory
     title: "Memory & Context"
