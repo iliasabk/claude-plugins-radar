@@ -303,6 +303,11 @@ categories:
     title: "Safety, Quality & Review"
     subtitle: "Guardrails, code review and verification layers for agentic engineering."
     entries:
+      - name: "agentwhy"
+        repo: "karolkozer/agentwhy"
+        description: "Local file-access audit, private-file alerts and configurable file blocking for Claude Code."
+        install: "plugin: karolkozer/agentwhy"
+        tags: [security, privacy, hooks]
       - name: "cc-safety-net"
         repo: "kenryu42/cc-safety-net"
         description: "AI coding agent guardrail: a CLI hook that blocks destructive git and filesystem actions."
