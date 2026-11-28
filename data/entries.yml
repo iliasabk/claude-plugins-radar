@@ -27,6 +27,11 @@ categories:
         description: "Persistent file-based planning for long-running agent tasks that survives crashes and context resets."
         install: "clone: OthmanAdi/planning-with-files"
         tags: [planning, files]
+      - name: "100x Engineer Skill"
+        repo: "DeadInternetStudios/100x-engineer-skill"
+        description: "Skill kit that plans agent work first, then checks it with tests and formal verification."
+        install: "npm: github:DeadInternetStudios/100x-engineer-skill"
+        tags: [workflow, planning, verification]
       - name: "ponytail"
         repo: "DietrichGebert/ponytail"
         description: "Makes your agent think like the laziest senior dev in the room: short, decisive output."
