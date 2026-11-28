@@ -333,6 +333,11 @@ categories:
         description: "AGENTS.md rules and skills for AI coding agents — Codex, Cursor and Claude Code."
         install: "ciembor/agent-rules-books"
         tags: [rules]
+      - name: "reinwatch"
+        repo: "sofumel/reinwatch"
+          description: "Per-agent token counts and runaway warnings for Claude Code subagents, with single-agent stop."
+            install: "plugin: sofumel/reinwatch"
+              tags: [monitoring, safety, hooks]
 
   - id: catalogs
     title: "Directories & Catalogs"
